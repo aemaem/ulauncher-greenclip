@@ -3,7 +3,7 @@
   "name": "GreenClip",
   "description": "GreenClip integration with Ulauncher",
   "developer_name": "Anuragh K P",
-  "icon": "images/logo.png",
+  "icon": "edit-paste",
   "options": {
     "query_debounce": 0.1
   },
